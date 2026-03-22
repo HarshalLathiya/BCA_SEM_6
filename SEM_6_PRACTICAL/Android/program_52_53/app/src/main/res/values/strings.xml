@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">City Suggestion</string>
+
+    <string-array name="cities">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Bangalore</item>
+        <item>Hyderabad</item>
+        <item>Pune</item>
+        <item>Jaipur</item>
+        <item>Ahmedabad</item>
+        <item>Surat</item>
+    </string-array>
+</resources>
